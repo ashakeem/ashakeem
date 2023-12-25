@@ -2,7 +2,7 @@
 
 🤓 I'm interested in Software Engineering and Artificial Intelligence.
 
-📱 Currently, I'm diving into mobile app development.
+📱 Currently, I'm diving into Full-Stack SAAS applications that leverage Artificial Intelligence.
 
 📧 You can reach me at ayomidesuleimanh@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ayomidehakeem/)..
 
