@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, my name is Ayomide Hakeem. I'm a sophomore at Cal Poly Pomona studying Computer Engineering . I am interested in artificial intelligence, and web applications.
+Hi!, my name is Ayomide Hakeem. I'm a sophomore at Cal Poly Pomona studying Computer Engineering . I am interested in artificial intelligence and web applications.
 
 
 ## 🌐 Socials:
