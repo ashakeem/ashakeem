@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ayomide Hakeem<br>A Computer Engineering Student at Calpoly Pomona<br><br>- 👨‍💻 All of my projects are available at https://www.ayomidehakeem.dev<br><br>- 📫 How to reach me **ayomidesuleimanh@gmail.com**
+Hi 👋, I'm Ayomide Hakeem<br>A Computer Engineering Student at Cal Poly Pomona<br><br>- 👨‍💻 All of my projects are available at https://www.ayomidehakeem.dev<br><br>- 📫 How to reach me **ayomidesuleimanh@gmail.com**
 
 
 ## 🌐 Socials:
