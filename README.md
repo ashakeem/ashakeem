@@ -14,7 +14,7 @@ Hi 👋, I'm Ayomide Hakeem<br>A Computer Engineering Student at Cal Poly Pomona
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashakeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats
-![](https://leetcard.ashakeem/leetcode?site=us)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashakeem?theme=nord&font=Noto%20Sans%20Elymaic)
 
 ### ✍️ Quote of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
