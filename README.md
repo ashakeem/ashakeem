@@ -19,7 +19,3 @@ A Computer Engineering Student at Cal Poly Pomona
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ashakeem&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
