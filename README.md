@@ -1,8 +1,10 @@
 # 💫About Me :
-Hi 👋, I'm Ayomide Hakeem
+Hi 👋, I'm Ayomide Hakeem,
+
 A Computer Engineering Student at Cal Poly Pomona
 
 👨‍💻 All of my projects are available at https://www.ayomidehakeem.dev
+
 📫 How to reach me ayomidesuleimanh@gmail.com
 
 
