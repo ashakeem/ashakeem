@@ -7,8 +7,6 @@ A Computer Engineering Student at Cal Poly Pomona
 
 👨‍💻  I'm currently working on : Start-ups
 
-🌱 I'm currently learning:  Low-Latency and Low-Level programming using C++
-
 📫 How to reach me ayomidesuleimanh@gmail.com
 
 
