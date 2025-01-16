@@ -5,7 +5,7 @@ A Computer Engineering Student at Cal Poly Pomona
 
 👨‍💻 All of my projects are available at https://www.ayomidehakeem.dev/
 
-👨‍💻  I'm currently working on : Bridging the gap between AI and Fitness
+👨‍💻  I'm currently working on : Start-ups
 
 🌱 I'm currently learning:  Low-Latency and Low-Level programming using C++
 
