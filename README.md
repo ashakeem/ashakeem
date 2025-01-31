@@ -1,11 +1,11 @@
 # 💫About Me :
 Hi 👋, I'm Ayomide Hakeem,
 
-A Computer Engineering Student at Cal Poly Pomona
+A Computer Science Student at Cal Poly Pomona
 
-👨‍💻 All of my projects are available at https://www.ayomidehakeem.dev/
+👨‍💻 my projects are available at https://www.ayomidehakeem.dev/
 
-👨‍💻  I'm currently working on : Start-ups
+👨‍💻  I'm currently working on : AI SAAS Start-ups
 
 📫 How to reach me ayomidesuleimanh@gmail.com
 
